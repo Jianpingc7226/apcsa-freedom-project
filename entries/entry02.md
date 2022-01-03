@@ -9,7 +9,7 @@
 
   Android Studios have a plugin named Gradle, a build automation tool that will help process the setup of firebase in android studio with just few line of code.
   
-###### First step-
+##### **First step-**
   First, we will need to add rules to include the Google Services Gradle to the build.gradle in the project-level of android studio. 
 ```Java
 buildscript {
@@ -38,7 +38,7 @@ allprojects {
 }
 ```
 
-###### Second step-
+###### **Second step-**
   On another build.gradle document apply the Google Service Gradle plugin that has just been added in the previous step.
   
 ```Java
