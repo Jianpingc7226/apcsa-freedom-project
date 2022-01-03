@@ -68,7 +68,7 @@ dependencies {
 }
 ```
 
-###### Process
+## Process
   Now we are planning the most promising solution, discussing features of our project, and learning our tool. During our learning, the skills we use are **Communication** and **How to Google**. We created a discord channel for our freedom project and share the link to articles, tutorials, or websites we found that will help on google.
 
 
