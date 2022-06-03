@@ -1,20 +1,20 @@
 # APCSA Freedom Project
-by X
+by Jianping Chen
 
 ## Context
 The “Freedom Project” for APCSA is all about X. The purpose of this blog is to X.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making an Android Education Forum. This blog will walk through my process of independently studying firebase and android studio in order to make a mobile forum that allow students and educators to ask and answer questions.
 
 ## Links
 
-Product
+[Product](https://drive.google.com/file/d/16rdHhTkPwQLmbB_GBPwXISkpM-2f_Xn6/view?usp=sharing)
 
-Presentation
+[Presentation](https://docs.google.com/presentation/d/14K0Z19Bckk0g3RxvWIlAsd6SXktdLaj4Mmu0GlWTK4M/edit?usp=sharing)
 
 ## Implications
-X
+
 
 ---
 
