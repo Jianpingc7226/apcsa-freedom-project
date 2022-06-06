@@ -2,7 +2,7 @@
 by Jianping Chen
 
 ## Context
-The “Freedom Project” for APCSA is all about learning a tool out side of our class content and use it to design and develop our own app. The purpose of this blog is to document all my learning process and problem I had encountered during my learning.
+The “Freedom Project” for APCSA is all about learning a tool outside of our class content and using it to design and develop our app. The purpose of this blog is to document all my learning processes and the problem I encountered during my learning.
 
 ## Content
 For my project, I am making an Android Education Forum. This blog will walk through my process of independently studying firebase and android studio in order to make a mobile forum that allow students and educators to ask and answer questions.
