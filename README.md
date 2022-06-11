@@ -14,7 +14,7 @@ For my project, I am making an Android Education Forum. This blog will walk thro
 [Presentation](https://docs.google.com/presentation/d/14K0Z19Bckk0g3RxvWIlAsd6SXktdLaj4Mmu0GlWTK4M/edit?usp=sharing)
 
 ## Implications
-
+Our intention for creating this app is to provide students and teachers with more tools that will improve communication within school communities. Students and teachers alike can seek help on any questions they may have by posting them on our app or they can find answers to the comments made by others regarding the answer to their question. The social nature of this app is also not to be underestimated, students can meet other people outside their school. The app can also decrease the time students spent on tutoring when they can simply get helped from our forum instead of spending their time in tutoring. But overall this is not without shortcomings, students may be overly reliant on our app to solve the problem, which will student's grades in a negative way.
 
 ---
 
